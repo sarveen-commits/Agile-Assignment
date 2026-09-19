@@ -1,0 +1,6 @@
+{
+  "name": "ScrumScale — Team Structure Studio",
+  "description": "Interactive Scaled Scrum visualization and exploration studio for a 50M+ user social network, modeling Tribe-Squad architecture, Scrum of Scrums, and Executive Action Team governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
